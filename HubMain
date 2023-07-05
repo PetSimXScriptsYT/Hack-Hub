@@ -76,9 +76,6 @@ end)
 --seventh
 local Tags = Windows:NewTab("Tag Giver")
 local TagsSection = Tags:NewSection("Partner Tag")
-local TagsSection = Tags:NewSection("Developer Tag")
-local TagsSection = Tags:NewSection("Leader Board Tag")
-local TagsSection = Tags:NewSection("Admin Tag")
 
 
 TagsSection:NewButton("Tag Giver", "Give special tag in chat", function()
