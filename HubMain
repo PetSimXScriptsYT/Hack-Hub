@@ -44,8 +44,8 @@ end)
 
 
 --fourth
-local TradeScam = Window:NewTab("Trade Scam")
-local TradeScamSection = TradeScam:NewSection("Trade Scam")
+local TradeScam = Window:NewTab("Trade Scam (OP)")
+local TradeScamSection = TradeScam:NewSection("Trade Scam (click when your in a trade")
 
 
 TradeScamSection:NewButton("Trade Scam", "Loads Up Private Trade Scam Script", function()
