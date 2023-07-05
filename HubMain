@@ -3,7 +3,7 @@ local Window = Library.CreateLib("Premium PSX HUB", "BloodTheme")
 
 
 local Main = Window:NewTab("Read Me")
-local MainSection = Main:NewSection("If any scripts take too long to load DM mesyt on discord (usually takes around 5 minutes to load)")
+local MainSection = Main:NewSection("If you encounter any problems DM mesyt on discord")
 
 
 
