@@ -2,8 +2,8 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHept
 local Window = Library.CreateLib("Premium PSX HUB", "BloodTheme")
 
 
-local Main = Window:NewTab("Please Read")
-local MainSection = Main:NewSection("Dont leak source if u have")
+local Main = Window:NewTab("Read Me")
+local MainSection = Main:NewSection("If any scripts take too long to load DM mesyt on discord (usually takes around 5 minutes to load)")
 
 
 
