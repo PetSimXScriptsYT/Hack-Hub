@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Premium PSX HUB", "BloodTheme")
+local Window = Library.CreateLib("Premium PSX HUB", "GrapeTheme")
 
 
 local Main = Window:NewTab("Read Me")
